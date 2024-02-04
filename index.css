@@ -22,6 +22,7 @@
     background-color:black;
     min-width:100px;
     position:absolute;
+    cursor: pointer;
     }
     
     #dropdown:hover #content {
