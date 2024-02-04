@@ -1,3 +1,20 @@
+#icon {
+    float:right
+}
+
+.nav{
+    color:white;
+    text-align:center;
+}
+
+.post {
+    color:white;
+}
+
+#asylum{
+    text-align:center
+}
+
 body {
      background-color:black;
      color:white;
@@ -5,10 +22,8 @@ body {
      
 }
 
-#icon {
-    float:right
-}
 
 #content {
     text-align: center;
 }
+
