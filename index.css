@@ -1,12 +1,7 @@
 body {
      background-color:black;
+     color:white;
      font-family:'Courier New', Courier, monospace;
+     text-align:center;
 }
 
-h1{
-    color:white
-}
-
-p{
-    color:white
-}
