@@ -31,6 +31,8 @@
     
     #asylum{
     text-align:center;
+    padding:20px;
+
     
     width:100%;
     
@@ -45,8 +47,6 @@
     
     #main {
     text-align: center;
-    
-    
-    top: 10%;
     width:100%;
+    position:absolute;
     }
