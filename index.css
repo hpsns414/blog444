@@ -1,52 +1,46 @@
 #dropdown #icon {
-    
     cursor: pointer;
     border:none;
     padding: 10px 15px;
     position:absolute;
-    }
+    right:5px
+}
     
+body {
+    background-color:black;
+    color:white;
+    font-family:'Courier New', Courier, monospace;
+        
+}
 
-
-    #dropdown a{
-    
+#dropdown a{
     color:white;
     display:block;
     text-decoration: none;
     padding: 10px 15px;
-   
-    }
+}
     
-    #dropdown #content {
+#dropdown #content {
     display:none;
     background-color:black;
     min-width:100px;
     position:absolute;
+    right: 5px;
     cursor: pointer;
-    }
+    z-index: 1;
+}
     
-    #dropdown:hover #content {
+#dropdown:hover #content {
     display:block;
-    }
+}
     
-    #asylum{
+#asylum{
     text-align:center;
     padding:20px;
+}
 
-    
-    width:100%;
-    
-    }
-    
-    body {
-    background-color:black;
-    color:white;
-    font-family:'Courier New', Courier, monospace;
-    
-    }
-    
-    #main {
+#main {
     text-align: center;
+    padding:20;
     width:100%;
-    position:absolute;
-    }
+}
