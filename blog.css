@@ -17,6 +17,7 @@ body {
     color:white;
     display:block;
     text-decoration: none;
+    text-align:center;
     padding: 10px 15px;
 }
     
@@ -48,4 +49,8 @@ body {
     text-align: center;
     padding:20 0;
     width:100%;
+}
+
+#main a {
+    color:white;
 }
