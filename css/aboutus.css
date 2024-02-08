@@ -49,6 +49,8 @@ body {
     text-align: center;
     padding:20 0;
     width:100%;
+    position:relative;
+    top:20px;
 }
 
 #main a {
